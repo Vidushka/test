@@ -24,7 +24,6 @@
         <processorPath useClasspath="true" />
         <module name="mod1" />
         <module name="mod2" />
-        <module name="testPrnt" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
